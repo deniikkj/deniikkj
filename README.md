@@ -16,4 +16,4 @@ gotham: {
     icon_color: "599cab",
     text_color: "99d1ce",
     bg_color: "0c1014",
-  },
+  }
