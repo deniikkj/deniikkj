@@ -11,3 +11,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deniikkj&theme=ambient_gradient&show_icons=true)
 
+gotham: {
+    title_color: "2aa889",
+    icon_color: "599cab",
+    text_color: "99d1ce",
+    bg_color: "0c1014",
+  },
