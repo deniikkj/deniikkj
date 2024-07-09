@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ele/Dele
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deniikkj&theme=merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deniikkj&theme=ambient_gradient&show_icons=true)
 
