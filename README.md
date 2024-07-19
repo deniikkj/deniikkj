@@ -13,18 +13,17 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=deniikkj&style=for-the-badge">
 </div>
 
+<!-- Estatísticas do GitHub -->
 <div align="center">
-    <h2>My stats!</h2>
-</a>
-  <a href="https://github.com/gt02-Sul/github-readme-stats">
+  <h2>Estatísticas do GitHub</h2>
+  <a href="https://github.com/deniikkj/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deniikkj&show_icons=true&theme=gotham" />
   </a>
-</div>
-</a>
-  <a href="https://github.com/gt02-Sul/convoychat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gt02-Sul&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <a href="https://github.com/deniikkj/convoychat">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniikkj&layout=compact&langs_count=8&card_width=320&gotham" />
   </a>  
 </div>
+
 
 # Social Medias 📲
    *  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkdeniii/) 
