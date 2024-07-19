@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deniikkj&show_icons=true&theme=gotham" />
   </a>
   <a href="https://github.com/deniikkj/convoychat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniikkj&layout=compact&langs_count=8&card_width=320&gotham" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniikkj&layout=compact&langs_count=8&card_width=320&theme=gotham" />
   </a>  
 </div>
 
