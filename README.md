@@ -34,8 +34,3 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=html,js,react,nodejs,git,bootstrap,css,npm,github" />
   </a>
 </p>
-
-<!-- Jogo da Cobrinha -->
-<div align="center">
-
-![snake animation](https://github.com/deniikkj>/<deniikkj>/blob/output/github-contribution-grid-snake2.svg)
