@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <!-- Jogo da Cobrinha -->
 <div align="center">
 
-![snake animation](https://github.com/deniikkj>/<deniikkj>/blob/output/github-contribution-grid-snake2.svg)
+[snake animation](https://github.com/deniikkj>/<deniikkj>/blob/output/github-contribution-grid-snake2.svg)
