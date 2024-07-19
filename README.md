@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h2>My stats!</h2>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deniikkj&theme=gotham&show_icons=true)
+</a>
+  <a href="https://github.com/gt02-Sul/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deniikkj&show_icons=true&theme=gotham" />
+  </a>
+</div>
 </a>
   <a href="https://github.com/gt02-Sul/convoychat">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gt02-Sul&layout=compact&langs_count=8&card_width=320&theme=transparent" />
