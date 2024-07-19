@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=deniikkj&style=for-the-badge">
+</div>
+
+<div align="center">
     <h2>My stats!</h2>
 </a>
   <a href="https://github.com/gt02-Sul/github-readme-stats">
