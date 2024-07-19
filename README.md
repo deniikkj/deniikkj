@@ -11,5 +11,13 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deniikkj&theme=gotham&show_icons=true)
 
-# Meus contatos 📲
+# Social Medias 📲
    *  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkdeniii/) 
+
+# Ferramentas👨‍💻
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,react,nodejs,git,bootstrap,css,npm,github" />
+  </a>
+</p>
+
