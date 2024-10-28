@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 # Ferramentas👨‍💻
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,react,nodejs,git,bootstrap,css,npm,github" />
+    <img src="https://skillicons.dev/icons?i=html,js,react,nodejs,git,bootstrap,css,npm,github,python" />
   </a>
 </p>
