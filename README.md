@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>Estatísticas do GitHub</h2>
   <a href="https://github.com/deniikkj/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deniikkj&show_icons=true&theme=gotham" />
+    <img height="1700em" src="https://github-readme-stats.vercel.app/api?username=deniikkj&show_icons=true&theme=gotham" />
   </a>
   <a href="https://github.com/deniikkj/convoychat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniikkj&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniikkj&layout=compact&langs_count=8&card_width=320&theme=gotham" />
   </a>  
 </div>
 
